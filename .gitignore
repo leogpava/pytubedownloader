@@ -1,0 +1,7 @@
+# Arquivos de ambiente Python
+venv/
+.venv/
+__pycache__/
+
+# Arquivos de editor (VS Code)
+.vscode/
